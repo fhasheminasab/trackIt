@@ -1,10 +1,17 @@
 # trackit
 
-A new Flutter project.
+A health tracking app that can connect to your MiBand through BLE and get data from it.
 
-## Getting Started
+## How and What
 
-This project is a starting point for a Flutter application.
+This project is created using flutter 1.22.2 and Dart 10.2.2 leveraging several packages, developed in VisualStudio 1.50.1, and designed in Adobe XD 31.1.12.13.
+other tools that have been used throughout the development of this project are:
+  Android SDK 29.02
+  Android Studio 3.6
+  JRE 1.8.0
+  a Samsung Galaxy S6 mobile phone device (Android 7.0)
+  a Pixel 2 API 24 emulator
+  a Xiaomi MiBand4 device
 
 A few resources to get you started if this is your first Flutter project:
 
