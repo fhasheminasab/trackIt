@@ -13,6 +13,8 @@ other tools that have been used throughout the development of this project are:
   - a Pixel 2 API 24 emulator
   - a Xiaomi MiBand4 device
 
+Feel free to contact me for furthur information.
+
 If you're new to flutter, here's some links you could check out:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
